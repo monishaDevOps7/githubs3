@@ -1,5 +1,17 @@
 body {
+<<<<<<< HEAD
   text-align: center;
   background-color: black;
   color: white;
 }
+=======
+  background-color: #111;
+  color: white;
+  text-align: center;
+  font-family: Arial;
+}
+
+h1 {
+  color: cyan;
+}
+>>>>>>> 2963496b9377bc8a58c911591d50da7f04544056
