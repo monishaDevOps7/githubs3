@@ -1,3 +1,3 @@
-function showMsg() {
-  alert("S3 Website Working 🔥");
+function showMsg(message) {
+  alert(message);
 }
